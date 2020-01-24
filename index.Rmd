@@ -19,22 +19,29 @@ color:white!important;
 <style type="text/css">
 
 .chart-title {  /* chart_title  */
-   font-size: 15px
+   font-size: 12px
 </style>
 
 
-PyCon Limerick 2020
+PyCon Ireland 2020 {data-navmenu="About"}
 ===================================
 
-Column
---------------------------
+Column {data-width=300}
+--------------------
 
 
+<div class="container">
 
-<h5> Gazette Version </h5>
+<div>
+<img src="./images/pythonirelandlogo.png" width=300 alt="">
+</div>
+
+</div>
+
+<h5> Event Gazette </h5>
 
 
-Column {.tabset}
+Column {.tabset data-width=800}
 --------------------------
 
 
@@ -45,8 +52,9 @@ PyCon Ireland will take place in Radisson Blue Hotel, Golden Lane, Dublin 8
 
 
 
-<h5>Venue
- Information </h5>
+### Venue ###
+
+<h5> Venue Information </h5>
 
 
 
@@ -165,7 +173,7 @@ Column {.tabset}
 |---------------|-----------|---------|---------|---------|
 |10:00-10:30 | | | | |
 |10:35-11:05 | | | | |
-| Coffee Break |
+| |Coffee Break | Coffee Break |Coffee Break |Coffee Break |
 |11:30-12:15 | | | | |
 |10:20-13:05 | | | | |
 | Lunch |
@@ -207,15 +215,20 @@ Information about Workshop 4 will go here
 Information about Workshop 5 will go here
 
 
-Code of Conduct
+
+
+Code of Conduct {data-navmenu="Participation"}
 ====================================
+
+Column {.tabset}
+------------------------------------
 
 ### Summary
 
 ### Response Protocol
 
 
-Venue Information
+Venue Information {data-navmenu="Participation"}
 ====================================
 
 Column {.tabset}
@@ -224,21 +237,21 @@ Column {.tabset}
 ### Rooms 1 and 2
 
 
-
+#### Rooms 1 and 2
 
 * Rooms 1 and 2 are located on the ground floor of the Radisson Blu Hotel.
 
 
-#### 
+#### Keynotes
 
 * All Keynote Sessions will take place here. 
 
 
 * For Keynote Sessions, these rooms will be combined into a single room.
 
+### The Sky Room
 
-
-Event Organization
+Session Chairs {data-navmenu="Participation"}
 ====================================
 
 
@@ -270,20 +283,20 @@ Members of the Python community are invited to be session chairs.
 #### Remarks
 
 
-* 
-When things are well prepared it is an easy job. 
-* 
-The interesting stuff is about checking all the AV stuff.
+*  When things are well prepared it is an easy job. 
+*  The interesting stuff is about checking all the AV stuff.
 
 
 
-### The Sky Room
 
 
-Accessibility
+
+Accessibility {data-navmenu="Participation"}
 ====================================
 
 
-Organizing Team
+Internet Access {data-navmenu="Participation"}
+============================================
+Organizing Team  {data-navmenu="About"}
 ====================================
 
