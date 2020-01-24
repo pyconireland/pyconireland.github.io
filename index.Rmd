@@ -29,6 +29,7 @@ PyCon Ireland 2020 {data-navmenu="About"}
 Column {data-width=300}
 --------------------
 
+### PyCon Ireland 2020 Event Gazette
 
 <div class="container">
 
@@ -37,9 +38,9 @@ Column {data-width=300}
 </div>
 
 </div>
-
+<center>
 <h5> Event Gazette </h5>
-
+</center>
 
 Column {.tabset data-width=800}
 --------------------------
@@ -297,6 +298,27 @@ Accessibility {data-navmenu="Participation"}
 
 Internet Access {data-navmenu="Participation"}
 ============================================
+Financial Aid {data-navmenu="Participation"}
+=============================================
+
+Column {.tabset}
+------------------------------------------
+
+### Financial Aid
+
+### Reimbursment
+
+N.N. We will only reimburse expenses from the Financial Aid Budget that were approved by the committee in advance.
+
+To be refunded of your approved allowance, you'll need the following:
+
+*    Having attended the conference, make sure you've been registered at the desk
+*    Provide receipt for travel and/or accommodation
+*    Provide your full name and address, as stated on your bank account
+*    Provide a full IBAN
+
+
+
 Organizing Team  {data-navmenu="About"}
 ====================================
 
