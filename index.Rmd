@@ -1,0 +1,289 @@
+---
+title: "PyCon Ireland 2020"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: united
+    css: style.css
+---
+
+<style>                     
+.navbar {
+  background-color:#013228;
+  border-color:white;
+}
+.navbar-brand {
+color:white!important;
+}
+</style>   
+
+<style type="text/css">
+
+.chart-title {  /* chart_title  */
+   font-size: 15px
+</style>
+
+
+PyCon Limerick 2020
+===================================
+
+Column
+--------------------------
+
+
+
+<h5> Gazette Version </h5>
+
+
+Column {.tabset}
+--------------------------
+
+
+### Pycon Ireland 2020
+
+PyCon Ireland will take place in Radisson Blue Hotel, Golden Lane, Dublin 8
+
+
+
+
+<h5>Venue
+ Information </h5>
+
+
+
+* Address: Radisson Blu Royal Hotel, 8 Golden Lane, Dublin, D08 VRR7
+
+
+
+* GPS: Co-ordinates: 53.340902, -6.268335
+
+
+
+* Phone: (01) 898 2900
+ / International (00) 353 1 898 2900
+ 
+
+### Python Ireland
+
+
+### What is an Event Gazette
+
+* An event gazette is a publication of details relevant to the operation of an event.
+
+* The gazette is primarily intended for potential speakers and sponsors, but can be made accessible to the general public. 
+
+ - The gazette should not be considered to be the main website for PyCon Ireland 2020.
+
+* The gazette will be updated and amended on an ongoing basis. 
+
+ - If details are absent, the omission must not be assumed to be deliberate or permanent.
+
+* The Python community is invited to participate in the creation of content for the gazette.
+
+ -  Please contact Python Ireland by sending an email to "contact [at] python [dot] ie"
+
+
+Call For Proposals
+====================================
+
+
+Column {.tabset}
+------------------------------------
+
+### Submission Process
+
+* Talk submissions can either be
+
+ - 45 minutes long (i.e. 40 minutes for the main content and 5 minutes for questions)
+ - 30 minutes long (i.e. 25 minutes for the main content and 5 minutes for questions)
+
+* Python Ireland reserves the right to expedite the acceptance of submissions before the end of the CFP period, to mitigate the financial impact on the Speaker's participation.
+
+<h5> Confirmation of Participation </h5>
+
+* Once you have had a talk selected, kindly confirm your wish to participate as soon as possible.
+
+* If you are unable to participate, or decide not to, please inform us as soon as possible so that we may offer the slot to another speaker.
+
+<h5> Accomodation </h5>
+
+* IMPORTANT: Please secure your accomodation as soon as possible.
+
+ - There is alway events taking place in the city each weekend. 
+
+ - You can mitigate costs by booking something immediately.
+
+
+### The Everybody Pays Principle
+
+With a view to keeping the ticket prices low and accessible to everyone, PyCons around the world use the "Everybody Pays" principle.
+
+We confirm that this principle is observed by PyCon Ireland, even applying it to the board of directors, and the management team.
+
+This principle is well explained in the following post by Jesse Noller:
+
+jessenoller.com/blog/2011/05/25/pycon-everybody-pays
+
+We point out that there are contingencies for financial aid assistance. Revert to the conference organizing team if this is something you wish to discuss.
+
+We will not engage in discussions about the merits of this policy.
+
+### Recording of Talks
+
+Please note that there will be video recording of the talks, which will then be published on Youtube under the Youtube licence:
+
+https://support.google.com/youtube/answer/2797468?hl=en
+
+### Scheduling Considerations
+
+* Many Pycon Ireland speakers are travelling a long distance in order to participate in Pycon Ireland. 
+* We will devise a scheduling plan that does not place an undue burden on those travelling.
+* Constructively, this means we tend to schedule locally based speakers in the opening and closing sessions.
+
+
+
+Sponsorship
+====================================
+
+
+Schedules
+====================================
+
+Column {.tabset}
+------------------------------------
+
+### Saturday Morning
+
+* The Event will start at 9:00 on Saturday 7th November 2020.
+
+### Saturday Afternoon
+
+### Sunday Morning
+
+### Sunday Afternoon
+
+| | Room 1 | Room 2 | Room 3 | Room 4|
+|---------------|-----------|---------|---------|---------|
+|10:00-10:30 | | | | |
+|10:35-11:05 | | | | |
+| Coffee Break |
+|11:30-12:15 | | | | |
+|10:20-13:05 | | | | |
+| Lunch |
+
+
+Workshops
+====================================
+
+Column {.tabset}
+------------------------------------
+
+
+
+### Workshop 1
+
+Information about Workshop 1 will go here
+
+
+
+### Workshop 2
+
+Information about Workshop 2 will go here
+
+
+
+### Workshop 3
+
+Information about Workshop 3 will go here
+
+
+### Workshop 4
+
+Information about Workshop 4 will go here
+
+
+
+### Workshop 5
+
+Information about Workshop 5 will go here
+
+
+Code of Conduct
+====================================
+
+### Summary
+
+### Response Protocol
+
+
+Venue Information
+====================================
+
+Column {.tabset}
+------------------------------------
+
+### Rooms 1 and 2
+
+
+
+
+* Rooms 1 and 2 are located on the ground floor of the Radisson Blu Hotel.
+
+
+#### 
+
+* All Keynote Sessions will take place here. 
+
+
+* For Keynote Sessions, these rooms will be combined into a single room.
+
+
+
+Event Organization
+====================================
+
+
+Column {.tabset}
+------------------------------------
+
+
+
+### Session Chairs
+
+Members of the Python community are invited to be session chairs.
+
+#### Tasks for Session Chairing
+
+1. Checking the speaker is set up with Audio Visual requirements.
+
+2. Introducing the speaker or speakers to the Audience
+
+3. Monitoring time  - giving them 5 minute warnings. (The easiest way is just to put your hands up )
+
+4. managing Questions and Answers
+
+5. Thanking the speaker
+
+6. Prompting the crowd to applaud and clap.
+
+
+
+#### Remarks
+
+
+* 
+When things are well prepared it is an easy job. 
+* 
+The interesting stuff is about checking all the AV stuff.
+
+
+
+### The Sky Room
+
+
+Accessibility
+====================================
+
+
+Organizing Team
+====================================
+
