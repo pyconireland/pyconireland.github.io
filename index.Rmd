@@ -100,10 +100,13 @@ Column {.tabset}
 
 ### Submission Process
 
+<h5> Talk submissions </h5>
+
 * Talk submissions can either be
 
- - 45 minutes long (i.e. 40 minutes for the main content and 5 minutes for questions)
- - 30 minutes long (i.e. 25 minutes for the main content and 5 minutes for questions)
+  - 45 minutes long (i.e. 40 minutes for the main content and 5 minutes for questions)
+  
+  - 30 minutes long (i.e. 25 minutes for the main content and 5 minutes for questions)
 
 * Python Ireland reserves the right to expedite the acceptance of submissions before the end of the CFP period, to mitigate the financial impact on the Speaker's participation.
 
