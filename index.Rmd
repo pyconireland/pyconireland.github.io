@@ -73,6 +73,15 @@ PyCon Ireland will take place in Radisson Blue Hotel, Golden Lane, Dublin 8
 
 ### Python Ireland
 
+<p>
+<center>
+<div class="container">
+<div>
+<img src="./images/pythonirelandlogofull.png" width=400 alt="">
+</div>
+</div>
+</center>
+</p>
 
 ### What is an Event Gazette
 
@@ -188,6 +197,24 @@ Workshops
 
 Column {.tabset}
 ------------------------------------
+
+
+### Workshops
+
+<div class="container">
+<center>
+<div>
+<img src="./images/pyconirelandworkshops.jpg" width=600 alt="">
+</div>
+</center>
+
+</div>
+<center>
+<h5> Workshops at PyCon Ireland </h5>
+</center>
+
+
+
 
 
 
