@@ -29,7 +29,7 @@ PyCon Ireland 2020 {data-navmenu="About"}
 Column {data-width=300}
 --------------------
 
-### PyCon Ireland 2020 Event Gazette
+### PyCon Ireland 2020 Event Plan
 
 <div class="container">
 
@@ -48,7 +48,9 @@ Column {.tabset data-width=800}
 
 ### Pycon Ireland 2020
 
-PyCon Ireland will take place in Radisson Blue Hotel, Golden Lane, Dublin 8
+PyCon Ireland will take place online in November and December 2020.
+
+(Unconfirmed Dates: Thursday 19th November to Thursday 3rd December)
 
 
 
@@ -83,19 +85,19 @@ PyCon Ireland will take place in Radisson Blue Hotel, Golden Lane, Dublin 8
 </center>
 </p>
 
-### What is an Event Gazette
+### Event Plan
 
-* An event gazette is a publication of details relevant to the operation of an event.
+* This event plan is a publication of details relevant to the operation of an event.
 
-* The gazette is primarily intended for potential speakers and sponsors, but can be made accessible to the general public. 
+* This plan is primarily intended for potential speakers and sponsors, but can be made accessible to the general public. 
 
- - The gazette should not be considered to be the main website for PyCon Ireland 2020.
+ - The site should not be considered to be the main website for PyCon Ireland 2020.
 
-* The gazette will be updated and amended on an ongoing basis. 
+* The plan website will be updated and amended on an ongoing basis. 
 
  - If details are absent, the omission must not be assumed to be deliberate or permanent.
 
-* The Python community is invited to participate in the creation of content for the gazette.
+* The Python community is invited to participate in the creation of content for the event plan.
 
  -  Please contact Python Ireland by sending an email to "contact [at] python [dot] ie"
 
@@ -107,7 +109,12 @@ Call For Proposals
 Column {.tabset}
 ------------------------------------
 
-### Submission Process
+### Submission Process (Virtual Event)
+
+<h5> Talk submissions </h5>
+
+
+### Submission Process (Live Event)
 
 <h5> Talk submissions </h5>
 
@@ -154,96 +161,31 @@ Please note that there will be video recording of the talks, which will then be 
 
 https://support.google.com/youtube/answer/2797468?hl=en
 
-### Scheduling Considerations
 
-* Many Pycon Ireland speakers are travelling a long distance in order to participate in Pycon Ireland. 
-* We will devise a scheduling plan that does not place an undue burden on those travelling.
-* Constructively, this means we tend to schedule locally based speakers in the opening and closing sessions.
+
+
+```{r child = 'Schedule.Rmd'}
+```
+
+
+
+```{r child = 'Regional.Rmd'}
+```
+
+
+```{r child = 'Collaborations.Rmd'}
+```
+
+```{r child = 'Workshops.Rmd'}
+```
+
+
+
 
 
 
 Sponsorship
 ====================================
-
-
-Schedules
-====================================
-
-Column {.tabset}
-------------------------------------
-
-### Saturday Morning
-
-* The Event will start at 9:00 on Saturday 7th November 2020.
-
-### Saturday Afternoon
-
-### Sunday Morning
-
-### Sunday Afternoon
-
-| | Room 1 | Room 2 | Room 3 | Room 4|
-|---------------|-----------|---------|---------|---------|
-|10:00-10:30 | | | | |
-|10:35-11:05 | | | | |
-| |Coffee Break | Coffee Break |Coffee Break |Coffee Break |
-|11:30-12:15 | | | | |
-|10:20-13:05 | | | | |
-| Lunch |
-
-
-Workshops
-====================================
-
-Column {.tabset}
-------------------------------------
-
-
-### Workshops
-
-<div class="container">
-<center>
-<div>
-<img src="./images/pyconirelandworkshops.jpg" width=600 alt="">
-</div>
-</center>
-
-</div>
-<center>
-<h5> Workshops at PyCon Ireland </h5>
-</center>
-
-
-
-
-
-
-### Workshop 1
-
-Information about Workshop 1 will go here
-
-
-
-### Workshop 2
-
-Information about Workshop 2 will go here
-
-
-
-### Workshop 3
-
-Information about Workshop 3 will go here
-
-
-### Workshop 4
-
-Information about Workshop 4 will go here
-
-
-
-### Workshop 5
-
-Information about Workshop 5 will go here
 
 
 
@@ -259,28 +201,7 @@ Column {.tabset}
 ### Response Protocol
 
 
-Venue Information {data-navmenu="Participation"}
-====================================
 
-Column {.tabset}
-------------------------------------
-
-### Rooms 1 and 2
-
-
-#### Rooms 1 and 2
-
-* Rooms 1 and 2 are located on the ground floor of the Radisson Blu Hotel.
-
-
-#### Keynotes
-
-* All Keynote Sessions will take place here. 
-
-
-* For Keynote Sessions, these rooms will be combined into a single room.
-
-### The Sky Room
 
 Session Chairs {data-navmenu="Participation"}
 ====================================
@@ -295,7 +216,7 @@ Column {.tabset}
 
 Members of the Python community are invited to be session chairs.
 
-#### Tasks for Session Chairing
+#### Tasks for Session Chairing (live Events)
 
 1. Checking the speaker is set up with Audio Visual requirements.
 
@@ -316,9 +237,6 @@ Members of the Python community are invited to be session chairs.
 
 *  When things are well prepared it is an easy job. 
 *  The interesting stuff is about checking all the AV stuff.
-
-
-
 
 
 
@@ -352,3 +270,9 @@ To be refunded of your approved allowance, you'll need the following:
 Organizing Team  {data-navmenu="About"}
 ====================================
 
+* Kevin O'Brien
+* Nicolas Laurent
+* Lais Carvalho
+* Stephen Finucane
+* Urja Pawar
+* Stephane Wirtel

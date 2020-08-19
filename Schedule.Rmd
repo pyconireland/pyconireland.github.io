@@ -1,0 +1,158 @@
+Schedule
+====================================
+
+Column {.tabset}
+------------------------------------
+
+### Schedule
+
+<div class="container">
+<center>
+<div>
+<img src="./images/pyconirelandworkshops.jpg" width=600 alt="">
+</div>
+</center>
+
+</div>
+<center>
+<h5> Schedule </h5>
+</center>
+* Pycon Ireland will take place virtually
+
+### Thu 19th Nov
+
+* Day 1
+
+* Evening of Thursday 19th November
+* Opening Address by Python Ireland Chair - Nico
+* Opening Keynote
+* Contributed Sessions
+
+### Fri 20th Nov
+
+* Day 2
+* Leads: Stephen Finucane
+
+### Sat 21st Nov
+
+* Day 3
+
+<h5> Saturday Morning Sessions </h5>
+* Leads: Allyn & Nicolas
+
+* Contributed Sessions
+
+<h5> Saturday Afternoon Sessions </h5>
+
+* Leads: David & Mihai
+* Keynote 
+* Contributed Sessions
+
+<h5> Saturday Afternoon Sessions </h5>
+
+* Contributed Sessions
+
+### Sun 22nd Nov
+
+* Day 4
+* Leads: Stephen Finucane
+
+<h5> Sunday Afternoon Session </h5>
+* PyData Sessions
+* Contributed Sessions
+
+### Mon 23rd Nov
+
+* Day 5
+* Leads: Stephen Finucane
+* Panel Discussion Session
+* Contributed Sessions
+
+### Tue 24th Nov
+
+* Day 6
+* Leads: Kevin O'Brien
+* OSGEO Ireland Collaboration Night
+
+### Wed 25th Nov
+
+* Day 7
+* Leads: David & Mihai
+
+
+### Thu 26th Nov.
+
+* Day 8
+* Leads: Urja & Lais
+
+* Contributed Sessions
+
+### Fri 29th Nov.
+
+* Day 9 
+* 5:30 - 8:30 Irish Time
+* Leads: Allyn & Nicolas
+
+* Contributed Sessions
+
+
+### Sat 30th Nov.
+
+* Day 10
+
+<h5> Saturday Morning Sessions </h5>
+* Leads: Allyn & Nicolas
+
+* Contributed Sessions
+
+<h5> Saturday Afternoon Sessions </h5>
+
+* Leads: David & Mihai
+* Keynote 
+* Contributed Sessions
+
+<h5> Saturday Afternoon Sessions </h5>
+
+* Contributed Sessions
+
+
+### Sun 1st December.
+
+* Day 11
+
+<h5> Sunday Morning Sessions </h5>
+* Leads: Kevin & Urja
+
+* Contributed Sessions
+
+<h5> Sunday Afternoon Sessions </h5>
+
+* Leads: David & Mihai
+* Keynote 
+* Contributed Sessions
+
+<h5> Sunday Afternoon Sessions </h5>
+
+* Contributed Sessions
+
+
+### Mon 2nd Dec.
+
+* Day 13
+* Leads: Urja & olga
+* Panel Discussion Session
+* Contributed Sessions
+
+### Tues 3rd Dec.
+
+* Day 14
+* Leads: Stephen & Kevin
+* Closing Keynote
+* Contributed Sessions
+
+### Wed 4th Dec.
+
+* Day 15
+* Leads: Nicolas & Lais
+* Closing Keynote
+* Contributed Sessions

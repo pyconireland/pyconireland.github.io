@@ -1,0 +1,56 @@
+
+Workshops
+====================================
+
+Column {.tabset}
+------------------------------------
+
+
+### Workshops
+
+<div class="container">
+<center>
+<div>
+<img src="./images/pyconirelandworkshops.jpg" width=600 alt="">
+</div>
+</center>
+
+</div>
+<center>
+<h5> Workshops at PyCon Ireland </h5>
+</center>
+
+
+
+
+
+
+### Workshop 1
+
+Information about Workshop 1 will go here
+
+
+
+### Workshop 2
+
+Information about Workshop 2 will go here
+
+
+
+### Workshop 3
+
+Information about Workshop 3 will go here
+
+
+### Workshop 4
+
+Information about Workshop 4 will go here
+
+
+
+### Workshop 5
+
+Information about Workshop 5 will go here
+
+
+

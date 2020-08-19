@@ -1,0 +1,5 @@
+### Scheduling Considerations
+
+* Many Pycon Ireland speakers are travelling a long distance in order to participate in Pycon Ireland. 
+* We will devise a scheduling plan that does not place an undue burden on those travelling.
+* Constructively, this means we tend to schedule locally based speakers in the opening and closing sessions.d

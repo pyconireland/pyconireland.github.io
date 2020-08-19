@@ -1,0 +1,49 @@
+Collaborations
+====================================
+
+Column {.tabset}
+------------------------------------
+
+### Collaborations
+
+<div class="container">
+<center>
+<div>
+<img src="./images/pyconirelandworkshops.jpg" width=600 alt="">
+</div>
+</center>
+
+</div>
+<center>
+<h5> Collaboration Events </h5>
+</center>
+
+
+### WIMLDS Dublin
+
+* Contact through : Kevin O'Brien / Lais Carvalho
+* Format: Contributed Talks Session 
+
+### ML Prague
+
+* Contact through : Kevin O'Brien
+* MLPrague is a Machine Learning Conference taking place in Prague in February 2021.
+
+
+### Why R? Foundation
+
+* Contact through : Kevin O'Brien 
+* Format: Youtube Webinar
+* Topic: Pydata - R and Python 
+
+
+### OSGeo Ireland
+
+* Contact through : Kevin O'Brien
+* Format: Contributed Talks Session 
+* Open Source GIS Systems
+
+### PyLadies Dublin
+
+* Contact through : Lais Carvalho
+* Format: Contributed Talks Session 
