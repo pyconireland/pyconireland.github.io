@@ -22,7 +22,11 @@ Column {.tabset}
 ### WIMLDS Dublin
 
 * Contact through : Kevin O'Brien / Lais Carvalho
+* Website: www.wimlds.org
 * Format: Contributed Talks Session 
+
+WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.
+
 
 ### ML Prague
 
@@ -33,8 +37,9 @@ Column {.tabset}
 ### Why R? Foundation
 
 * Contact through : Kevin O'Brien 
-* Format: Youtube Webinar
-* Topic: Pydata - R and Python 
+* Format: Youtube Webinar (Preferably Thursday at 7pm Irish Time)
+* Topic: Pydata - R and Python / Teticulate
+
 
 
 ### OSGeo Ireland
@@ -43,7 +48,19 @@ Column {.tabset}
 * Format: Contributed Talks Session 
 * Open Source GIS Systems
 
+
+
+The Open Source Geospatial Foundation (OSGeo), is a non-profit non-governmental organization whose mission is to support and promote the collaborative development of open geospatial technologies and data. The foundation was formed in February 2006 to provide financial, organizational and legal support to the broader Free and open-source geospatial community.[2] It also serves as an independent legal entity to which community members can contribute code, funding and other resources.
+
+
+
 ### PyLadies Dublin
 
 * Contact through : Lais Carvalho
 * Format: Contributed Talks Session 
+
+### Kerry Data Science Group
+
+* Contact through : Kevin O'Brien
+* Organising meetups on data science, machine learning and AI in Kerry.
+* Twitter: @kerrydatasci

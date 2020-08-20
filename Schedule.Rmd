@@ -60,11 +60,12 @@ Column {.tabset}
 <h5> Sunday Afternoon Session </h5>
 * PyData Sessions
 * Contributed Sessions
+* Kerry Data Science
 
 ### Mon 23rd Nov
 
 * Day 5
-* Leads: Stephen Finucane
+* Leads: Stephen Finucane & Kevin O'Brien
 * Panel Discussion Session
 * Contributed Sessions
 
@@ -78,7 +79,7 @@ Column {.tabset}
 
 * Day 7
 * Leads: David & Mihai
-
+* Regional Event: Belfast
 
 ### Thu 26th Nov.
 
@@ -94,7 +95,7 @@ Column {.tabset}
 * Leads: Allyn & Nicolas
 
 * Contributed Sessions
-
+* Regional Event - Sligo (Iain Keaney)
 
 ### Sat 30th Nov.
 
@@ -114,6 +115,7 @@ Column {.tabset}
 <h5> Saturday Afternoon Sessions </h5>
 
 * Contributed Sessions
+* Panel Discussion: The Python Community outside the big cities
 
 
 ### Sun 1st December.
@@ -133,7 +135,9 @@ Column {.tabset}
 
 <h5> Sunday Afternoon Sessions </h5>
 
+* Keynote
 * Contributed Sessions
+
 
 
 ### Mon 2nd Dec.
