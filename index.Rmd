@@ -48,12 +48,16 @@ Column {.tabset data-width=800}
 
 ### Pycon Limerick 2022
 
-<h4> PyCon Limerick</h4>
+<h4> PyCon Limerick - Event Gazette</h4>
 * This is the Event Gazette for PyCon Limerick 2022
 
 * PyCon Limerick will take place on Saturday 7th May 2022.
-
 * The Event will take place on the 6th Floor of the Stand Hotel in Limerick City Centre.
+
+<h4> Key Logistical Considerations - Ed Sheeran Concerts</h4>
+* There is a series of Ed Sheeran concerts taking place in Limerick on Friday 6th May, Saturday 7th May and Sunday 8th May.
+* This will present challenges to anyone requiring overnight accommodation.
+
 
 #### Event Plan
 
@@ -87,11 +91,34 @@ With Python 2's end-of-life, only Python 3.5.x and later are supported.
 <p>
 Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, a free and open-source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.
 
+### Python Ireland
 
-### Venue ###
+<p>
+<center>
+<div class="container">
+<div>
+<img src="./images/pythonirelandlogofull.png" width=400 alt="">
+</div>
+</div>
+</center>
+</p>
 
+
+Venue 
+=================================================
 <h5> Venue Information </h5>
 
+
+
+<p>
+<center>
+<div class="container">
+<div>
+<img src="./images/LSH-Exterior-Image-Master.JPG" width=500 alt="">
+</div>
+</div>
+</center>
+</p>
 
 
 * Address: Limerick Strand Hotel,Ennis Rd, Limerick, V94 03F2
@@ -106,17 +133,6 @@ Python interpreters are available for many operating systems. A global community
  / International (00) 353 61 421 800
  
 
-### Python Ireland
-
-<p>
-<center>
-<div class="container">
-<div>
-<img src="./images/pythonirelandlogofull.png" width=400 alt="">
-</div>
-</div>
-</center>
-</p>
 
 
 
@@ -164,13 +180,19 @@ Column {.tabset}
 
 ### The Everybody Pays Principle
 
+<h4> The Everybody Pays Principle</h4>
+
+***UPDATE*** For PyCon Limerick - there is no payments required for speakers
+
+------------------
+
 With a view to keeping the ticket prices low and accessible to everyone, PyCons around the world use the "Everybody Pays" principle.
 
 We confirm that this principle is observed by PyCon Ireland, even applying it to the board of directors, and the management team.
 
 This principle is well explained in the following post by Jesse Noller:
 
-jessenoller.com/blog/2011/05/25/pycon-everybody-pays
+* jessenoller.com/blog/2011/05/25/pycon-everybody-pays
 
 We point out that there are contingencies for financial aid assistance. Revert to the conference organizing team if this is something you wish to discuss.
 
@@ -257,10 +279,15 @@ Members of the Python community are invited to be session chairs.
 
 Accessibility {data-navmenu="Participation"}
 ====================================
-
+<h4> Accessibility</h4>
+Information about Accessibility at the venue will be made available in due course.
 
 Internet Access {data-navmenu="Participation"}
 ============================================
+<h4> Internet Access</h4>
+Information about Internet Access at the venue will be made available in due course.
+
+
 Financial Aid {data-navmenu="Participation"}
 =============================================
 
@@ -268,6 +295,9 @@ Column {.tabset}
 ------------------------------------------
 
 ### Financial Aid
+
+<h4>Financial Aid</h4>
+Information about Financial Aid at the venue will be made available in due course.
 
 ### Reimbursment
 
@@ -289,5 +319,4 @@ Organizing Team  {data-navmenu="About"}
 * Nicolas Laurent
 * Lais Carvalho
 * Stephen Finucane
-* Urja Pawar
 * Stephane Wirtel
