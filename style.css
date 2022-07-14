@@ -1,49 +1,55 @@
 /* Whole document: */
 body{
-  font-family: Calibri;
+  font-family: Helvetica;
   font-size: 16pt;
 }
 /* Headers */
-h1,h2,h3,h4,h5,h6{
-  font-size: 22pt;
+h1,h2,h3{
+  font-size: 28pt;
+}
+h4,h5,h6{
+  font-size: 20pt;
+  font-weight: bold;
 }
 
-.project-tab {
-    padding: 10%;
-    margin-top: -8%;
+div {
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  padding-left: 20px;
 }
-.project-tab #tabs{
-    background: #007b5e;
-    color: #eee;
+
+nav li {
+    display: inline;
+    border: solid;
+    border-width: 1px 1px 0 1px;
+    margin: 0 5px 0 0;
 }
-.project-tab #tabs h6.section-title{
-    color: #eee;
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: stretch;
+
+  width: 50%;
+  height: 50%;
+
+  border-radius: 3px;
+  background-color: hsl(0, 0%, 96%);
 }
-.project-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: #0062cc;
-    background-color: transparent;
-    border-color: transparent transparent #f3f3f3;
-    border-bottom: 3px solid !important;
-    font-size: 16px;
-    font-weight: bold;
+
+.box {
+  border-radius: 4px;
+  display: flex;
 }
-.project-tab .nav-link {
-    border: 1px solid transparent;
-    border-top-left-radius: .25rem;
-    border-top-right-radius: .25rem;
-    color: #0062cc;
-    font-size: 16px;
-    font-weight: 600;
+
+.box img {
+  width: 60%;
+  object-fit: contain;
+  border-radius: 4px;
 }
-.project-tab .nav-link:hover {
-    border: none;
-}
-.project-tab thead{
-    background: #f3f3f3;
-    color: #333;
-}
-.project-tab a{
-    text-decoration: none;
-    color: #333;
-    font-weight: 600;
+
+p.ex1 {
+  padding-left: 10%;
 }

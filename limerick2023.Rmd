@@ -1,0 +1,322 @@
+---
+title: "PyCon Limerick 2022"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: united
+    css: style.css
+---
+
+<style>                     
+.navbar {
+  background-color:#013228;
+  border-color:white;
+}
+.navbar-brand {
+color:white!important;
+}
+</style>   
+
+<style type="text/css">
+
+.chart-title {  /* chart_title  */
+   font-size: 12px
+</style>
+
+
+PyCon Limerick 2022 {data-navmenu="About"}
+===================================
+
+Column {data-width=300}
+--------------------
+
+### PyCon Limerick 2022 Event Plan
+
+<div class="container">
+
+<div>
+<img src="./images/pythonirelandlogo.png" width=300 alt="">
+</div>
+
+</div>
+<center>
+<h5> Event Gazette </h5>
+</center>
+
+Column {.tabset data-width=800}
+--------------------------
+
+
+### Pycon Limerick 2022
+
+<h4> PyCon Limerick - Event Gazette</h4>
+* This is the Event Gazette for PyCon Limerick 2022
+
+* PyCon Limerick will take place on Saturday 7th May 2022.
+* The Event will take place on the 6th Floor of the Stand Hotel in Limerick City Centre.
+
+<h4> Key Logistical Considerations - Ed Sheeran Concerts</h4>
+* There is a series of Ed Sheeran concerts taking place in Limerick on Friday 6th May, Saturday 7th May and Sunday 8th May.
+* This will present challenges to anyone requiring overnight accommodation.
+
+
+#### Event Plan
+
+* This gazette is an event plan is a publication of details relevant to the operation of an event.
+
+* This plan is primarily intended for potential speakers and sponsors, but can be made accessible to the general public. 
+
+ - The site should not be considered to be the main website for PyCon Limerick 2022. That will be publicized separately.
+
+* The plan website will be updated and amended on an ongoing basis. 
+
+ - If details are absent, the omission must not be assumed to be deliberate or permanent.
+
+* The Python community is invited to participate in the creation of content for the event plan.
+
+ -  Please contact Python Ireland by sending an email to "contact [at] python [dot] ie"
+ 
+### What is Python
+
+<h4> What is Python?</h4>
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.[28]
+<p>
+Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented, and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.
+<p>
+Python was conceived in the late 1980s as a successor to the ABC language. Python 2.0, released in 2000, introduced features like list comprehensions and a garbage collection system with reference counting.
+<p>
+Python 3.0, released in 2008, was a major revision of the language that is not completely backward-compatible, and much Python 2 code does not run unmodified on Python 3.
+<p>
+The Python 2 language was officially discontinued in 2020 (first planned for 2015), and "Python 2.7.18 is the last Python 2.7 release and therefore the last Python 2 release." No more security patches or other improvements will be released for it. 
+With Python 2's end-of-life, only Python 3.5.x and later are supported.
+<p>
+Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, a free and open-source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.
+
+### Python Ireland
+
+<p>
+<center>
+<div class="container">
+<div>
+<img src="./images/pythonirelandlogofull.png" width=400 alt="">
+</div>
+</div>
+</center>
+</p>
+
+
+Venue 
+=================================================
+<h5> Venue Information </h5>
+
+
+
+<p>
+<center>
+<div class="container">
+<div>
+<img src="./images/LSH-Exterior-Image-Master.JPG" width=500 alt="">
+</div>
+</div>
+</center>
+</p>
+
+
+* Address: Limerick Strand Hotel,Ennis Rd, Limerick, V94 03F2
+
+
+
+* GPS: Co-ordinates: 52.66631735683485, -8.63212169601663
+
+
+
+* Phone: (061) 421 800
+ / International (00) 353 61 421 800
+ 
+
+
+
+
+
+Call For Proposals
+====================================
+
+
+Column {.tabset}
+------------------------------------
+
+### Call for Submission Process 
+
+<h5> Talk submissions </h5>
+
+* Submissions to the Call for Proposals (CFP) process can be made through the Sessionize platform.
+* The CFP
+
+### Formats for Talks
+
+<h5> Talk submissions </h5>
+
+* Talk submissions can either be
+
+  - 45 minutes long (i.e. 40 minutes for the main content and 5 minutes for questions)
+  
+  - 30 minutes long (i.e. 25 minutes for the main content and 5 minutes for questions)
+
+* Python Ireland reserves the right to expedite the acceptance of submissions before the end of the CFP period, to mitigate the financial impact on the Speaker's participation.
+
+<h5> Confirmation of Participation </h5>
+
+* Once you have had a talk selected, kindly confirm your wish to participate as soon as possible.
+
+* If you are unable to participate, or decide not to, please inform us as soon as possible so that we may offer the slot to another speaker.
+
+<h5> Accommodation </h5>
+
+* IMPORTANT: Please secure your accomodation as soon as possible.
+
+ - There is alway events taking place in the city each weekend. 
+
+ - You can mitigate costs by booking something immediately.
+
+
+### The Everybody Pays Principle
+
+<h4> The Everybody Pays Principle</h4>
+
+***UPDATE*** For PyCon Limerick - there is no payments required for speakers
+
+------------------
+
+With a view to keeping the ticket prices low and accessible to everyone, PyCons around the world use the "Everybody Pays" principle.
+
+We confirm that this principle is observed by PyCon Ireland, even applying it to the board of directors, and the management team.
+
+This principle is well explained in the following post by Jesse Noller:
+
+* jessenoller.com/blog/2011/05/25/pycon-everybody-pays
+
+We point out that there are contingencies for financial aid assistance. Revert to the conference organizing team if this is something you wish to discuss.
+
+We will not engage in discussions about the merits of this policy.
+
+
+
+
+```{r child = 'Schedule.Rmd'}
+```
+
+
+
+
+
+
+
+```{r child = 'Workshops.Rmd'}
+```
+
+
+
+
+
+
+Sponsorship
+====================================
+<h4> Sponsorship</h4>
+
+* Details about sponsorships will be published here in due course.
+* If you are interested in sponsoring PyCon Limerick, please contact Python Ireland at "Contact [at] Python [dot] ie".
+
+
+
+Code of Conduct {data-navmenu="Participation"}
+====================================
+
+Column {.tabset}
+------------------------------------
+
+### Summary
+
+### Response Protocol
+
+
+
+
+Session Chairs {data-navmenu="Participation"}
+====================================
+
+
+Column {.tabset}
+------------------------------------
+
+
+
+### Session Chairs
+
+Members of the Python community are invited to be session chairs.
+
+#### Tasks for Session Chairing (live Events)
+
+1. Checking the speaker is set up with Audio Visual requirements.
+
+2. Introducing the speaker or speakers to the Audience
+
+3. Monitoring time  - giving them 5 minute warnings. (The easiest way is just to put your hands up )
+
+4. managing Questions and Answers
+
+5. Thanking the speaker
+
+6. Prompting the crowd to applaud and clap.
+
+
+
+#### Remarks
+
+
+*  When things are well prepared it is an easy job. 
+*  The interesting stuff is about checking all the AV stuff.
+
+
+
+Accessibility {data-navmenu="Participation"}
+====================================
+<h4> Accessibility</h4>
+Information about Accessibility at the venue will be made available in due course.
+
+Internet Access {data-navmenu="Participation"}
+============================================
+<h4> Internet Access</h4>
+Information about Internet Access at the venue will be made available in due course.
+
+
+Financial Aid {data-navmenu="Participation"}
+=============================================
+
+Column {.tabset}
+------------------------------------------
+
+### Financial Aid
+
+<h4>Financial Aid</h4>
+Information about Financial Aid at the venue will be made available in due course.
+
+### Reimbursment
+
+N.N. We will only reimburse expenses from the Financial Aid Budget that were approved by the committee in advance.
+
+To be refunded of your approved allowance, you'll need the following:
+
+*    Having attended the conference, make sure you've been registered at the desk
+*    Provide receipt for travel and/or accommodation
+*    Provide your full name and address, as stated on your bank account
+*    Provide a full IBAN
+
+
+
+Organizing Team  {data-navmenu="About"}
+====================================
+
+* Kevin O'Brien
+* Nicolas Laurent
+* Lais Carvalho
+* Stephen Finucane
+* Stephane Wirtel
