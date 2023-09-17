@@ -1,0 +1,91 @@
+---
+title: "Julia Workshop"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: united
+    css: style.css
+---
+
+<style>                     
+.navbar {
+  background-color:#013228;
+  border-color:white;
+}
+.navbar-brand {
+color:white!important;
+}
+</style>   
+
+<style type="text/css">
+
+.chart-title {  /* chart_title  */
+   font-size: 12px
+</style>
+
+
+Julia  {data-navmenu="About"}
+===================================
+
+Column {data-width=300}
+--------------------
+
+### PyCon Ireland 2020 Event Gazette
+
+<div class="container">
+
+<div>
+<img src="./images/pythonirelandlogo.png" width=300 alt="">
+</div>
+
+</div>
+<center>
+<h5> Event Gazette </h5>
+</center>
+
+Column {.tabset data-width=800}
+--------------------------
+
+
+
+
+### Python Ireland
+
+<p>
+<center>
+<div class="container">
+<div>
+<img src="./images/pythonirelandlogofull.png" width=400 alt="">
+</div>
+</div>
+</center>
+</p>
+
+### Installation
+
+* The material for my workshop is available at https://github.com/aviks/Limerick2020. To follow along, you'll need a Julia installation on your laptop. 
+* I would recommend downloading JuliaPro from https://juliacomputing.com/products/juliapro#download-table which will give you bundle with an IDE and runtime. 
+* Otherwise, download the runtime from https://julialang.org/download, and pair with your favourite editor.
+
+### IDEs
+
+* https://www.dunebook.com/top-8-ides-and-editors-for-julia/
+
+
+Julia Computing
+====================================
+
+
+Column {.tabset}
+------------------------------------
+
+### Julia Computing
+
+Avik Sengupta (VP Engineering) who is leading a workshop on 'Machine Learning with Julia'.
+
+Julia is the fastest high-performance open source computing language for data, analytics, algorithmic trading, machine learning, artificial intelligence, and other scientific and numeric computing applications. Julia solves the two language problem by combining the ease of use of Python and R with the speed of C++.
+
+Julia works with GPUs, TPUs, multithreading and parallel processing to deliver seamless unlimited scalability from a single CPU to thousands of nodes, cores and threads in the public or private cloud. Julia has run at petascale on 9,300 Knights Landing (KNL) nodes with 650,000 cores and 1.3 million threads to analyze over 56 terabytes of data using Cori, one of the ten largest and most powerful supercomputers in the world.
+
+Julia has been downloaded more than 12 million times and is used at more than 1,500 universities. Julia co-creators are the winners of the 2019 James H. Wilkinson Prize for Numerical Software and the 2019 Sidney Fernbach Award.
+
+Julia Computing was founded in 2015 by all the creators of Julia to provide products including JuliaTeam, JuliaSure and JuliaRun to businesses and researchers using Julia.
