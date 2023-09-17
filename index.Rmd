@@ -31,7 +31,7 @@ Column {.tabset}
 
 
 
-### Discrete mathematics
+### Python Ireland
 
 
 Discrete mathematics is the common name for the fields of mathematics most generally useful in theoretical computer science. This includes computability theory, computational complexity theory, and information theory. 
